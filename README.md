@@ -1,4 +1,4 @@
-# Financial Analysis Agent with LangGraph and Groq
+# Financial Analysis Agent 
 
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
 [![LangGraph](https://img.shields.io/badge/built%20with-LangGraph-red)](https://langchain-ai.github.io/langgraph/)
