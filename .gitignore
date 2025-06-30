@@ -1,0 +1,63 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+env/
+.env
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.sublime-*
+
+# Data files
+*.csv
+*.xlsx
+*.pickle
+*.pkl
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Notebooks (if used)
+*.ipynb
+.ipynb_checkpoints/
+
+# Test artifacts
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Build artifacts
+*.egg
+*.egg-info
+pip-log.txt
+
+# Groq credentials
+groq_key.txt
+api_keys.txt
